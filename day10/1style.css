@@ -1,0 +1,82 @@
+body{
+  
+}
+nav {
+    
+    font-family: cursive;
+display: flex;
+justify-content: center;
+padding-right: 35px;
+
+}
+nav h1 {
+    margin-right: 100px;
+    color: rgb(18, 122, 44);
+    display: flex;
+}
+
+nav li{
+    list-style: none;
+    margin-left: 2px;
+    
+}
+nav p {
+    
+    margin-left: 25%;
+    background-color: rgba(64, 66, 66, 0.192);
+    border-radius: 10px;
+    padding-top: 9px;
+    font-size: 15px;
+}
+nav p :hover
+.aa {
+
+    display: flex;
+}
+.aa p {
+    font-size: 13px;
+    font-family: cursive;
+    color: aliceblue;
+    border-radius: 0px;
+    background-color: darkgoldenrod;
+    margin-left: 11%;
+    padding-top: 0%;
+    margin-top: 5%;
+}
+.ab {
+    
+}
+.ab h1 {
+    font-family: sans-serif;
+    font-size: 45px;
+    margin-top: 1%;
+    margin-left: 11%;
+}
+.ab span {
+    color: rgb(4, 105, 54);
+}
+.ac p {
+    margin-left: 10%;
+    padding-top: 100px;
+    font-family: cursive;
+    
+}
+.ac img {
+    margin-bottom: ;
+}
+.ac {
+    display: flex;
+}
+.abc  img {
+   margin-top: 50%;
+    
+}
+.abc {
+    display: flex;
+    margin-left: 700px;
+    padding-bottom: 1000px;
+}
+#q {
+    
+    
+}

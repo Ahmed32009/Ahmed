@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.a {
+    width: 100px;
+    height: 100px;
+    background-color: blueviolet;
+}
+.as {
+    display: grid;
+    gap: 20px;
+    grid-template-columns: repeat(2 , auto);
+    grid-template-rows: repeat(3 , auto);
+    row-gap: 20px;
+    column-gap: 50px;
+}
